@@ -1,0 +1,17 @@
+c5.large,2,9,4,EBS only,0.107
+c5.xlarge,4,17,8,EBS only,0.214
+c5.2xlarge,8,34,16,EBS only,0.428
+c5.4xlarge,16,68,32,EBS only,0.856
+c5.9xlarge,36,141,72,EBS only,1.926
+c5.18xlarge,72,281,144,EBS only,3.852
+c5d.large,2,9,4,1 x 50 NVMe SSD,0.122
+c5d.xlarge,4,17,8,1 x 100 NVMe SSD,0.244
+c5d.2xlarge,8,34,16,1 x 200 NVMe SSD,0.488
+c5d.4xlarge,16,68,32,1 x 400 NVMe SSD,0.976
+c5d.9xlarge,36,141,72,1 x 900 NVMe SSD,2.196
+c5d.18xlarge,72,281,144,2 x 900 NVMe SSD,4.392
+c4.large,2,8,3.75,EBS only,0.126
+c4.xlarge,4,16,7.5,EBS only,0.252
+c4.2xlarge,8,31,15,EBS only,0.504
+c4.4xlarge,16,62,30,EBS only,1.008
+c4.8xlarge,36,132,60,EBS only,2.016

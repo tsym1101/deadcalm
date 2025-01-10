@@ -1,0 +1,5 @@
+PySide2
+colorama
+hashids
+boto3
+git+https://github.com/sanand0/orderedattrdict.git

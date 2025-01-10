@@ -1,0 +1,10 @@
+p3.2xlarge,8,26,61,EBS only,4.194
+p3.8xlarge,32,94,244,EBS only,16.776
+p3.16xlarge,64,188,488,EBS only,33.552
+p2.xlarge,4,12,61,EBS only,1.542
+p2.8xlarge,32,94,488,EBS only,12.336
+p2.16xlarge,64,188,768,EBS only,24.672
+g3.4xlarge,16,47,122,EBS only,1.58
+g3.8xlarge,32,94,244,EBS only,3.16
+g3.16xlarge,64,188,488,EBS only,6.32
+g3s.xlarge,4,13,30.5,EBS only,1.04

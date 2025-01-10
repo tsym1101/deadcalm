@@ -1,0 +1,11 @@
+*.pyc
+ui_Task*
+ui_BastionWindow.py
+*_rc.py
+.idea/
+ui_*
+config.json
+events/
+tmp/
+
+aws/

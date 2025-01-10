@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/amazon-aws-logo.jpg</file>
+        <file>images/checkbox.png</file>
+        <file>images/checkbox_checked.png</file>
+        <file>images/checkbox_checked_noSelect.png</file>
+        <file>images/checkbox_unchecked.png</file>
+        <file>images/down_arrow.png</file>
+        <file>images/down_arrow_dis.png</file>
+        <file>images/handle.png</file>
+        <file>images/up_arrow.png</file>
+        <file>images/up_arrow_dis.png</file>
+        <file>images/aws_log_v03.png</file>
+        <file>images/treasure_ship.png</file>
+        <file>images/maya.png</file>
+        <file>images/nuke.png</file>
+        <file>images/houdini.png</file>
+        <file>images/hengine.png</file>
+        <file>images/mantra.png</file>
+        <file>images/aftereffects.png</file>
+        <file>images/custom.png</file>
+        <file>images/ffmpeg.png</file>
+        <file>images/default.png</file>
+        <file>images/branch-end.png</file>
+        <file>images/branch-more.png</file>
+        <file>images/vline.png</file>
+        <file>images/branch-open.png</file>
+        <file>images/branch-closed.png</file>
+        <file>images/aws_ec2.png</file>
+        <file>images/aws_logo_v02.png</file>
+        <file>images/blender.png</file>
+        <file>images/vray.png</file>
+        <file>images/fsx.png</file>
+        <file>images/redshift.png</file>
+        <file>images/deadline.png</file>
+        <file>images/cloud-sync-icon.png</file>
+        <file>client/Ec2Types/ec2_type_general.csv</file>
+        <file>client/Ec2Types/ec2_type_compute.csv</file>
+        <file>client/Ec2Types/ec2_type_gpu.csv</file>
+        <file>client/Ec2Types/ec2_type_memory.csv</file>
+        <file>client/Ec2Types/ec2_type_storage.csv</file>
+    </qresource>
+</RCC>

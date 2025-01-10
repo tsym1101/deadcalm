@@ -1,0 +1,20 @@
+{
+    "proxy": "",
+    "slaves": [],
+    "deadline_webservice": [
+        "localhost",
+        "8082"
+    ],
+    "deadline_webservice_local": [
+        "localhost",
+        "8082"
+    ],
+    "use_deadline": true,
+    "deadline_repository_path_nt": "<path_to_repo>/Deadline/DeadlineRepository10",
+    "deadline_repository_path_posix": "<path_to_repo>/Deadline/DeadlineRepository10",
+    "use_silhouette_plugin": false,
+    "debug_level": 1,
+    "projects_root_dir_name": "PROJECTS",
+    "projects_dir_win": [],
+    "projects_dir_linux": []
+}

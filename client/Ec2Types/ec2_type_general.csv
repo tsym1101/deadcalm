@@ -1,0 +1,32 @@
+t3.nano,2,-,0.5,EBS only,0.0068
+t3.micro,2,-,1,EBS only,0.0136
+t3.small,2,-,2,EBS only,0.0272
+t3.medium,2,-,4,EBS only,0.0544
+t3.large,2,-,8,EBS only,0.1088
+t3.xlarge,4,-,16,EBS only,0.2176
+t3.2xlarge,8,-,32,EBS only,0.4352
+t2.nano,1,-,0.5,EBS only,0.0076
+t2.micro,1,-,1,EBS only,0.0152
+t2.small,1,-,2,EBS only,0.0304
+t2.medium,2,-,4,EBS only,0.0608
+t2.large,2,-,8,EBS only,0.1216
+t2.xlarge,4,-,16,EBS only,0.2432
+t2.2xlarge,8,-,32,EBS only,0.4864
+m5.large,2,8,8,EBS only,0.124
+m5.xlarge,4,16,16,EBS only,0.248
+m5.2xlarge,8,31,32,EBS only,0.496
+m5.4xlarge,16,60,64,EBS only,0.992
+m5.12xlarge,48,173,192,EBS only,2.976
+m5.24xlarge,96,345,384,EBS only,5.952
+m5d.large,2,8,8,1 x 75 NVMe SSD,0.146
+m5d.xlarge,4,16,16,1 x 150 NVMe SSD,0.292
+m5d.2xlarge,8,31,32,1 x 300 NVMe SSD,0.584
+m5d.4xlarge,16,60,64,2 x 300 NVMe SSD,1.168
+m5d.12xlarge,48,173,192,2 x 900 NVMe SSD,3.504
+m5d.24xlarge,96,345,384,4 x 900 NVMe SSD,7.008
+m4.large,2,6.5,8,EBS only,0.129
+m4.xlarge,4,13,16,EBS only,0.258
+m4.2xlarge,8,26,32,EBS only,0.516
+m4.4xlarge,16,53.5,64,EBS only,1.032
+m4.10xlarge,40,124.5,160,EBS only,2.58
+m4.16xlarge,64,188,256,EBS only,4.128
