@@ -70,6 +70,10 @@ python main.py
 3. Select workers to submit from the Worker Panel. Multiple selections are supported.
 4. In the Job Panel, input a job title and project name, then click the **Submit** button to submit the job.
 
+## Documentation
+- [How to Use TaskChainSample.py](samples/HowToChainTasks.md)
+
+
 ## Notice
 
 - This script includes legacy components.
